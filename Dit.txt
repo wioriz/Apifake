@@ -1,3 +1,1 @@
-{
-   "link": "https://i.postimg.cc/TPygT0Z2/845-tifa.gif"
-}
+{"link": "https://i.postimg.cc/TPygT0Z2/845-tifa.gif"}
